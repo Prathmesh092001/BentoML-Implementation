@@ -1,12 +1,13 @@
 # BentoML-Implementation
 
-``` BentoML is a framework for building reliable, scalable and cost-efficient AI applications.
-```
 
-```
+BentoML is a framework for building reliable, scalable and cost-efficient AI applications.
+
+
+## BentoML workflow
+
 ![BentoML workflow](bentoml-in-ml-workflow.png)
 
-```
 
 ## Steps for Implementing bentoml
 
